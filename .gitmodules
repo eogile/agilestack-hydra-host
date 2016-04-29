@@ -1,0 +1,8 @@
+[submodule "vendor/github.com/ory-am/ladon"]
+	path = vendor/github.com/ory-am/ladon
+	url = https://github.com/eogile/ladon.git
+	branch = update-api
+[submodule "vendor/github.com/ory-am/hydra"]
+	path = vendor/github.com/ory-am/hydra
+	url = https://github.com/eogile/hydra.git
+	branch = update-api
