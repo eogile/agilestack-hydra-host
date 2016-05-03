@@ -30,7 +30,7 @@ submodule:
 		git submodule update
 
 go-deps :
-		go get -u -t $(shell go list ./... | grep -v /vendor/)
+		go get -t $(shell go list ./... | grep -v /vendor/)
 
 
 ############################
